@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+dialog_filter.txt
+*.csv
+*.json
+*.md.bak
