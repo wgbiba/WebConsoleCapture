@@ -77,7 +77,7 @@ docs/screenshots/diagnostics.png # diagnostics page
 ### From source
 
 ```bash
-git clone https://github.com/AminAdinehAhari/WebConsoleCapture.git
+git clone https://github.com/AminAdineh/WebConsoleCapture.git
 cd WebConsoleCapture
 python -m venv .venv
 .venv\Scripts\activate           # Windows
@@ -137,7 +137,7 @@ CSV / JSON / Markdown).
 ## Author
 
 **Amin Adineh** - Brandenburg University of Technology
-- GitHub: [@AminAdinehAhari](https://github.com/AminAdinehAhari)
+- GitHub: [@AminAdineh](https://github.com/AminAdineh)
 
 ## License
 
